@@ -3,6 +3,8 @@ import logo from './logo.svg';
 import './App.css';
 
 function App() {
+  const apiUrl = 'api.gitguardian.com'
+  const key = '3d989e99-cafd-4919-8ef7-36bbefe7eae8'
   return (
     <div className="App">
       <header className="App-header">

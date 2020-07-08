@@ -4,6 +4,8 @@ import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
 
+let pwd = 'sadjk!fasm#@czz8'
+
 ReactDOM.render(
   <React.StrictMode>
     <App />
