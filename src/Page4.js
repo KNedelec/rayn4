@@ -1,5 +1,6 @@
 
 export const MyKeyComponent = () => {
+  const apiUrl = 'api.gitguardian.com'
   const key = '02Bc6972af6fF4e8eeA1cAabaad2532FdC3387b3e8aEfA2fc0e47b74abCeAf2A6F5f02f'
   const sshKey = `
 ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQClKsfkNkuSevGj3eYhCe53pcjqP3maAhDFcvBS7O6V
